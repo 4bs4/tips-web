@@ -1,0 +1,80 @@
+body{
+	background-image:url(images/bg.png);
+	background-repeat:repeat;
+	font:80% 'trebuchet ms',helvetica,sans-serif;
+	background-color:#c94141;
+	color:#fff;
+	font-family:"Myriad Pro", Verdana, Geneva, sans-serif;
+	margin-top:150px;
+}
+
+.header{
+	position:relative;
+	text-align:center;
+	font-family:"Myriad Pro", Verdana, Geneva, sans-serif;
+	font-size:16px;
+	letter-spacing:-1px;
+	word-spacing:3px;
+}
+
+.contenido{
+	text-align:center;
+	font-family:"Myriad Pro", Verdana, Geneva, sans-serif;
+	font-size:16px;
+	letter-spacing:-1px;
+	word-spacing:3px;
+}
+
+.barra{
+	border:1px solid #c94141;
+	width:285px;
+	height:32px; 
+	margin:5px; 
+	padding:1px; 
+	background: #992929;
+	-moz-border-radius:10px;
+	-moz-box-shadow:1px 1px 0px #d75151;
+	margin:0 auto;
+	margin-top:-15px;
+}
+
+.social{
+	position:absolute;
+	border:1px solid #c94141;
+	width:285px;height:32px;
+	margin:5px; padding:1px; 
+	background: #992929;
+	-moz-border-radius:10px;
+	-moz-box-shadow:1px 1px 0px #d75151;
+	margin:0 auto;
+	margin-top:-15px;
+}
+
+.estado {
+	height:32px;
+	font-size:11px;
+	text-indent:-9000px;
+	-moz-border-radius:10px;
+}
+
+#porcentage{
+	margin:0 auto;
+	width:285px;
+	height:32px; 
+	margin-top:-37px;
+	padding-left:7px;
+	color:#c94141;
+	font-family:"Myriad Pro", Verdana, Geneva, sans-serif;
+	font-size:30px;
+	font-weight:bold;
+}
+
+.footer {
+	text-align:center; 
+	color:#992929; 
+	font-family:"Myriad Pro", Verdana, Geneva, sans-serif;
+	font-size:11px;
+	word-spacing:3px;
+	text-shadow:1px 1px 0px #d75151;
+	padding-top:20px;
+}
